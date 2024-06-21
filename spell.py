@@ -12,7 +12,7 @@ def spell_check(word):
             print(f"{word} is spelled incorrectly. Suggestions: {', '.join(suggestions)}")
         else:
             print(f"No suggestions for {word}.")
-
+#my code
 # Example usage
 word_to_check = "helo"
 spell_check(word_to_check)
